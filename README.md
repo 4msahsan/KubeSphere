@@ -228,9 +228,9 @@ root@kubesphere:~/YML#
 
 
 <h2> ************* Nginx deployment ********* </h2>
+<b>
 
-
-root@kubesphere:~/YML# kubectl create deployment msa-nginx --image=nginx
+root@kubesphere:/YML# kubectl create deployment msa-nginx --image=nginx
 deployment.apps/msa-nginx created
 root@kubesphere:~/YML# kubectl get deploy
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE
@@ -241,35 +241,35 @@ root@kubesphere:~/YML# kubectl get deploy
 root@kubesphere:~/YML# kubectl get deploy -o wide
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES   SELECTOR
 msa-nginx   1/1     1            1           38s   nginx        nginx    app=msa-nginx
-root@kubesphere:~/YML#
+root@kubesphere:/YML#
 
-root@kubesphere:~/YML# kubectl scale deployment msa-nginx --replicas=3
+root@kubesphere:/YML# kubectl scale deployment msa-nginx --replicas=3
 deployment.apps/msa-nginx scaled
-root@kubesphere:~/YML# kubectl get deploy -o wide
+root@kubesphere:/YML# kubectl get deploy -o wide
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES   SELECTOR
 msa-nginx   2/3     3            2           10m   nginx        nginx    app=msa-nginx
-root@kubesphere:~/YML#
+root@kubesphere:/YML#
 
-root@kubesphere:~/YML# kubectl scale deployment msa-nginx --replicas=3
+root@kubesphere:/YML# kubectl scale deployment msa-nginx --replicas=3
 deployment.apps/msa-nginx scaled
-root@kubesphere:~/YML# kubectl get deploy -o wide
+root@kubesphere:/YML# kubectl get deploy -o wide
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES   SELECTOR
 msa-nginx   2/3     3            2           10m   nginx        nginx    app=msa-nginx
-root@kubesphere:~/YML# kubectl expose deployment msa-nginx --type="NodePort" --port 80
+root@kubesphere:/YML# kubectl expose deployment msa-nginx --type="NodePort" --port 80
 service/msa-nginx exposed
-root@kubesphere:~/YML# kubectl get svc
+root@kubesphere:/YML# kubectl get svc
 NAME         TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)        AGE
 kubernetes   ClusterIP   10.233.0.1   <none>        443/TCP        69m
 msa-nginx    NodePort    10.233.1.8   <none>        80:32250/TCP   5s
-root@kubesphere:~/YML#
+root@kubesphere:/YML#
 
-root@kubesphere:~/YML# kubectl get svc
+root@kubesphere:/YML# kubectl get svc
 NAME         TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)        AGE
 kubernetes   ClusterIP   10.233.0.1   <none>        443/TCP        69m
 msa-nginx    NodePort    10.233.1.8   <none>        80:32250/TCP   5s
-root@kubesphere:~/YML# curl
+root@kubesphere:/YML# curl
 10.233.1.8
-root@kubesphere:~/YML# curl 10.233.1.8
+root@kubesphere:/YML# curl 10.233.1.8
 <!DOCTYPE html>
 <html>
 <head>
@@ -295,6 +295,6 @@ Commercial support is available at
 </html>
 root@kubesphere:~/YML#
 
-
+</b>
 </pre>
 
