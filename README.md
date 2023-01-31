@@ -211,7 +211,7 @@ NOTES：
 
 
 
-<b>root@kubesphere:~/YML# kubectl get pods -n kube-system</b>
+<b> root@kubesphere:~/YML# kubectl get pods -n kube-system </b>
 NAME                                           READY   STATUS    RESTARTS   AGE
 calico-kube-controllers-5cc4cdb7ff-nznzt       1/1     Running   0          36m
 calico-node-s6nl5                              1/1     Running   0          36m
@@ -227,8 +227,10 @@ snapshot-controller-0                          1/1     Running   0          34m
 root@kubesphere:~/YML#
 
 
-<h2>************* Nginx deployment *********</h2>
+<h2> ************* Nginx deployment ********* </h2>
+
 <b>
+
 root@kubesphere:~/YML# kubectl create deployment msa-nginx --image=nginx
 deployment.apps/msa-nginx created
 root@kubesphere:~/YML# kubectl get deploy
@@ -293,6 +295,8 @@ Commercial support is available at
 </body>
 </html>
 root@kubesphere:~/YML#
+
 </b>
+
 </pre>
 
