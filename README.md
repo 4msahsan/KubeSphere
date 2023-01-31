@@ -298,3 +298,8 @@ root@kubesphere:~/YML#
 </b>
 </pre>
 
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/01.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/02.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/03.png "msahsan@hotmail.com")
+
