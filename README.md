@@ -211,7 +211,7 @@ NOTES：
 
 
 
- root@kubesphere:~/YML# kubectl get pods -n kube-system 
+ root@kubesphere:/YML# kubectl get pods -n kube-system 
 NAME                                           READY   STATUS    RESTARTS   AGE
 calico-kube-controllers-5cc4cdb7ff-nznzt       1/1     Running   0          36m
 calico-node-s6nl5                              1/1     Running   0          36m
@@ -224,7 +224,7 @@ kube-scheduler-kubesphere                      1/1     Running   0          36m
 nodelocaldns-lgxq9                             1/1     Running   0          36m
 openebs-localpv-provisioner-5778dcd6c6-88dsp   1/1     Running   0          36m
 snapshot-controller-0                          1/1     Running   0          34m
-root@kubesphere:~/YML#
+root@kubesphere:/YML#
 
 
 <h2> ************* Nginx deployment ********* </h2>
