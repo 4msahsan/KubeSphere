@@ -229,7 +229,6 @@ root@kubesphere:~/YML#
 
 <h2> ************* Nginx deployment ********* </h2>
 
-<b>
 
 root@kubesphere:~/YML# kubectl create deployment msa-nginx --image=nginx
 deployment.apps/msa-nginx created
@@ -296,7 +295,6 @@ Commercial support is available at
 </html>
 root@kubesphere:~/YML#
 
-</b>
 
 </pre>
 
