@@ -302,4 +302,49 @@ root@kubesphere:~/YML#
 ![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/01.png "msahsan@hotmail.com")
 ![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/02.png "msahsan@hotmail.com")
 ![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/03.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/04.png "msahsan@hotmail.com")
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/05.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/06.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/07.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/08.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/09.png "msahsan@hotmail.com")
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/10.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/11.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/12.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/13.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/14.png "msahsan@hotmail.com")
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/15.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/16.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/17.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/18.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/19.png "msahsan@hotmail.com")
+
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/20.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/21.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/22.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/23.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/24.png "msahsan@hotmail.com")
+
+
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/25.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/26.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/27.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/28.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/29.png "msahsan@hotmail.com")
+  
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/30.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/31.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/32.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/33.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/34.png "msahsan@hotmail.com")
+  
+[Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/35.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/36.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/37.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/38.png "msahsan@hotmail.com")
+![Alt text](https://github.com/4msahsan/KubeSphere/blob/main/png/39.png "msahsan@hotmail.com")  
 
