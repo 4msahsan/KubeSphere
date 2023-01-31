@@ -232,13 +232,13 @@ root@kubesphere:~/YML#
 
 root@kubesphere:/YML# kubectl create deployment msa-nginx --image=nginx
 deployment.apps/msa-nginx created
-root@kubesphere:~/YML# kubectl get deploy
+root@kubesphere:/YML# kubectl get deploy
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE
 msa-nginx   0/1     1            0           8s
-root@kubesphere:~/YML# kubectl get deploy
+root@kubesphere:/YML# kubectl get deploy
 
 
-root@kubesphere:~/YML# kubectl get deploy -o wide
+root@kubesphere:/YML# kubectl get deploy -o wide
 NAME        READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES   SELECTOR
 msa-nginx   1/1     1            1           38s   nginx        nginx    app=msa-nginx
 root@kubesphere:/YML#
